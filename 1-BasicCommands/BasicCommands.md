@@ -1,4 +1,4 @@
-#  RHCSA 2025 - Intro to RHEL & Linux Command Line Basics  
+#  RHCSA 2026 - Intro to RHEL & Linux Command Line Basics  
 Linux Fundamentals Lab
 
 ---
@@ -113,5 +113,5 @@ The focus is on building real system administration skills through hands-on prac
 
 ## 📌 Notes
 
-Practiced inside VirtualBox using a RHEL-10 Linux system.  
+Practiced inside vmWare using a RHEL-10 Linux system.  
 This lab is part of RHCSA preparation and Linux system administration fundamentals.
